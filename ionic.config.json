@@ -1,0 +1,7 @@
+{
+  "name": "qclean-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
